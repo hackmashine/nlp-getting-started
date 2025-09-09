@@ -1,8 +1,7 @@
 # nlp-getting-started
 
+![F1 Score 0.76](screenshot.png)
 
-
-![Uploading Screenshot_1.png…]()
 
 Kaggle competition: [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started)
 
